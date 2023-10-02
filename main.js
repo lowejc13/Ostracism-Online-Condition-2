@@ -36,8 +36,8 @@ $(function() {
 
     // Usernames by which the participant will receive "likes"
 	  // If group member names are changed, these should be changed accordingly.
-    settings.likes_by = ['Hannah','Georgeee','Sarah','Arjen','Jenny','AncaD','Laura','John','Ky'];
-    settings.Dislikes_by = ['John','AncaD','Sarah','Arjen','Jenny','Georgeee','Laura','Hannah','Ky'];
+    settings.likes_by = ['Reagan H.','Liam','Valeria','Riya','Katiekat','Sammy!','Lauren','Andrew','Madds'];
+    settings.Dislikes_by = ['Andrew','Sammy!','Valeria','Riya','Katiekat','Liam','Lauren','Reagan H.','Madds'];
   }
 
   // -------------------
