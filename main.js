@@ -349,7 +349,7 @@ $(function() {
       $('#timer').text('00:00');
       $('#final-continue').on('click', function() {
         // Redirect link
-        location.href = window.redirect+'&a='+window.participant+'&b='+window.condition+'&c='+encodeURI(window.username)+'&d='+window.avatarexport+'&e='+encodeURI(window.description);  // change p->a, c->b, u ->c, av->d, d->e
+        location.href = window.redirect+'&p='+window.participant+'&c='+window.condition+'&u='+encodeURI(window.username)+'&av='+window.avatarexport+'&d='+encodeURI(window.description);  
       });
     },window.settings.tasklength); // timing for task
   }
