@@ -4,38 +4,38 @@
 window.others = {
   "posts" : [
       {
-        "avatar": "avatars/others/george.png",
-        "username": "Georgeee",
+        "avatar": "avatars/others/liam.png",
+        "username": "Liam",
         "text": "My first semester at A&M this fall has honestly been really fun.  I was nervous before coming here and wasn’t sure if I’d make any friends as I tend to be pretty shy and I didn’t get all that close with my fish camp dg siblings. But I joined a FLO, and it’s really helped me come out of my shell and meet a lot of new cool people. I didn’t think this Aggie cult life would be for me but tbh I’m absolutely loving it!",
         "likes": [45000, 50000, 110000, 150000] //4
       },
       {
-        "avatar": "avatars/others/sarah.png",
-        "username": "Sarah",
+        "avatar": "avatars/others/valeria.png",
+        "username": "Valeria",
         "text": "Academics at A&M have been hard and challenging interestingly enough. Coffee and Celsius are helping me get by those late-night study sessions and I’m hoping it will all be worth it. Even though it’s been tough so far, I’m thankful to be at this school because I know it will give me a lot of resources and opportunities to succeed after graduation. All I’ll have to do is flash that aggie ring in the future and be good to go xD. But for real, A&M has been cool, and it’s been nice having so much freedom compared to high school. Anyway, this is also a shoutout to my awesome roommate who was a stranger at the start of the year but now is always looking out for me while I’m stuck in my room studying for multiple days at a time lol",
         "likes": [12000, 14000,15000,35000,80000,100000,110000,150000,20000] //9
       },
       {
-        "avatar": "avatars/others/john.png",
-        "username": "John",
+        "avatar": "avatars/others/andrew.png",
+        "username": "Andrew",
         "text": "The Aggie network always amazes me because it's more than just a connection; it's a lifelong bond with Aggies across the world. It’s hard to find anything like it. Muster is a great representation of that, and it’s my favorite tradition. The support each aggie has for each other is truly something else. I’m super thrilled to be part of this community because I know there will always be another Aggie that has my back",
 		"likes": [20000, 21000] //2
       },
       {
-        "avatar": "avatars/others/anca.png",
-        "username": "AncaD",
+        "avatar": "avatars/others/Sammy!.png",
+        "username": "Sammy!",
         "text": "Howdy everyone!! Aggie game days are my favorite thing at A&M! Starting off the weekend with midnight yell and our lovely yell leaders and Queen Rev is always a delight. Then we have all the tailgates covering campus to the roar of the 12th Man at Kyle Field, it’s just so much fun. I can’t forget the band either, they are superstars haha. These are memories I will definitely carry with me forever.  Gig 'em, Aggies! #Bthotu",
         "likes": [10000, 12000, 40000, 80000, 120000] //5
       },
       {
-        "avatar": "avatars/others/niki.png",
-        "username": "Nick",
+        "avatar": "avatars/others/JT.png",
+        "username": "JT",
         "text": "One thing that really impresses me about A&M culture is how the Aggie Spirit can be found anywhere and not just on campus. From the Aggie pride all over town to all the students serving and giving back to the community. My new org does a lot of service projects, and I’m excited to see all the good we can do for our town. I’ve heard a lot about the Big Event where a tonnnn of students gather together on one day to help out the community. I’m looking forward to seeing it go down!",
         "likes": [40000, 450000, 90000, 100000, 150000, 155000] //6
       },
     {
-        "avatar": "avatars/others/mary.png",
-        "username": "Mary",
+        "avatar": "avatars/others/kaylee.png",
+        "username": "Kaylee",
         "text": "I will literally never forget my ring day. I had all my friends and family around me to celebrate how I btho 90 hours and it made me feel loved and proud for getting this far. Dont get me wrong, ring dunks are a whack tradition but it was a great feeling to have all ur loved ones around cheering you on in such a bizarre challenge (until I stopped feeling all that great ahah). But I’m proud to be able to wear my ring and show off my pride for the school I love. Its not just a piece of jewelry; It’s a symbol for my redass aggie spirit. WHOOP!",
         "likes": [20000, 25000, 95000] //3
       },
@@ -46,26 +46,26 @@ window.others = {
         "likes": [12000, 38000] //1
       },
           {
-        "avatar": "avatars/others/kim.png",
-        "username": "Ky",
+        "avatar": "avatars/others/madds.png",
+        "username": "Madds",
         "text": "I’m a fish in the corps, and it’s been such a struggle. The whole thing seems so ridiculous yet I also love it? It’s not something I can explain, but I do know I’m proud to be part of something bigger than myself, and I’m glad A&M is where I am. My buddies are what keep me going, and it’s cool to go to bonfire with them on Sundays to get off the quad for a bit. Honestly can’t wait till I’m a sophomore though lol",
         "likes": [10000, 50000, 88000, 11000, 11500, 120000, 15000] //7
       },
       {
-        "avatar": "avatars/others/arjen.png",
-        "username": "Arjen",
+        "avatar": "avatars/others/riya.png",
+        "username": "Riya",
         "text": "The best thing I’ve done here at A&M is found a family within St. Mary’s because it’s been such a blessing. I’ve only ever gone to my hometown church, so I wasn’t sure if I’d be able to find another community I felt I belonged in. The Aggie connection at St. Mary’s has been just the right fit with all the right people. I’ve grown spiritually, socially, and academically through the support of everyone there. It’s a truly wonderful community",
         "likes": [12000, 40000, 120000] //3
       },
       {
-        "avatar": "avatars/others/heather.png",
-        "username": "Heather",
+        "avatar": "avatars/others/reagan h..png",
+        "username": "Reagan H.",
         "text": "Whether it's studying all night, goin to Harrys, or just walking around campus, I'm grateful for the memories I’m starting to make here at A&M. I’ve already met so many new people from all over Texas and a few out of staters. I grew up with the same 30 people in my class every year, so it’s interesting to meet people from all different backgrounds. On top of that, all the silly traditions and yells are something I’m happy to be a part of. It’s really helped me bond with people because we’re all learning the Aggie way together. And to think I was devastated I didn't get into ut smh",
         "likes": [13000, 50000, 80000, 88000, 120000] //5
       },
       {
-        "avatar": "avatars/others/jane.png",
-        "username": "Jane",
+        "avatar": "avatars/others/katiekat.png",
+        "username": "Katiekat",
         "text": " Joining my professor on their study abroad program this summer was something I will never forget. It gave me the tools I needed to find myself and grow more independent. It also made me feel closer with the Aggie community. Even though I was over 5,000 miles away from campus in an unfamiliar place, it was nice to be with a group of Aggies. We would be walking back to our dorms late at night chanting out the war hymn. Obviously we’re in Spain and probably no one knows what on earth we are talking about but it was fun and we bonded and it somehow made me feel closer to being an Aggie. Now that I’m back for the school year, I have a greater appreciation for both Aggieland and Spanish culture",
         "likes": [10000, 50000] //6
       },
