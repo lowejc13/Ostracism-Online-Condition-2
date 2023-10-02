@@ -369,6 +369,34 @@ $(function() {
     }
   }
 
+	// Get URL parameters to set condition number and participant number
+  function get_params() {
+    // condition number must be 1, 2, or 3
+    if(window.QueryString.c !== undefined && !isNaN(parseInt(window.QueryString.c)) && parseInt(window.QueryString.c) > 0 && parseInt(window.QueryString.c) < 4) {
+      window.condition = parseInt(window.QueryString.c);
+    } else {
+      window.condition = 2; // condition defaults to 2
+    }
+    // participant number must be numeric
+    if(window.QueryString.p !== undefined && !isNaN(parseInt(window.QueryString.p))) {
+      window.participant = parseInt(window.QueryString.p);
+    } else {
+      window.participant = 0; // participant defaults to 0
+    }    
+    // redirect
+    if(window.QueryString.redirect !== undefined && window.QueryString.redirect !== "") {
+      window.redirect = decode(window.QueryString.redirect);
+    } else {
+	  window.redirect = window.settings.defaultredirect;
+	}
+	
+	var urlHasQuestionMark = (window.redirect.indexOf("?") > -1);
+	if(!urlHasQuestionMark) {
+		window.redirect = window.redirect+"?redir=1";
+	}
+	//alert(window.redirect);
+
+  }
   // The variable QueryString contains the url parameters, i.e. condition no. and participant no.
   // via http://stackoverflow.com/a/979995
   window.QueryString = function () {
